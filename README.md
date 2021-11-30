@@ -1,7 +1,11 @@
 # taiwan_sites
+###### Library : `re`, `requests`, `lxml`
+###### Keywords : `Crawler`, `Regex`, `Markdown`
 
-爬取 [twbest1](http://www.twbest1.com/) 做為台灣景點池
+# Description
+Scrapped [twbest1](http://www.twbest1.com/) as taiwan sites pool.
 
+# Result
 ###### 
 ---
 # 北部地區
